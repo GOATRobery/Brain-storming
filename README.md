@@ -1,2 +1,6 @@
-# Brain-storming
- This repository delves into the origins of thought sparks, documenting processes, discussing content, and exploring potential outcomes or reasons. Though it may not always provide definitive solutions, we persist in unraveling core problems with unwavering intellectual commitment.
+# About Brain-storming
+ This is a repository dedicated to pondering and exploring the roots of intellectual sparks, attempting to delve into and resolve their processes.  
+ 
+ Here, we document the thought processes, discuss content, possible outcomes or reasons.  
+ 
+ Perhaps it may not ultimately find the solution to the root problem, but we are still tirelessly dedicated to probing the essence of the issue, with a spirit of intellectual pursuit above all.
